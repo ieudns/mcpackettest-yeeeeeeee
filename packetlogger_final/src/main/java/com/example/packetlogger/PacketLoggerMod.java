@@ -1,1 +1,0 @@
-package com.example.packetlogger; public class PacketLoggerMod implements net.fabricmc.api.ClientModInitializer { public void onInitializeClient(){} }

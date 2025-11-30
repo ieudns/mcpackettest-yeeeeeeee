@@ -1,1 +1,0 @@
-package com.example.packetlogger.mixin; public class ClientConnectionMixin {}
